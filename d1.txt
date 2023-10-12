@@ -1,0 +1,27 @@
+AHEAD , BEHIND
+
+Login to the github
+
+main
+b1
+b2
+
+PULL REQUEST
+
+REMOTE MERGING  VIA PULL REQUEST
+
+MERGE PROCESS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
